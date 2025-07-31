@@ -35,7 +35,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 200px;
+    padding-left: 300px;
 }
 .navbar ul{
     list-style: none;
@@ -72,6 +72,7 @@ header{
 }
 .navbar ul li:hover > ul{
     display: block;
+    
 }
 /*Header part start*/
 /*form start*/
