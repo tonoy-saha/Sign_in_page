@@ -103,7 +103,8 @@ header{
     100% {
         opacity: 1;
         transform: scale(1) translateY(0);
-        box-shadow: 0 4px 16px}
+        box-shadow: 0 4px 16px;
+    }
     }
 .form1 input{
     padding: 5px 50px;
